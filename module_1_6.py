@@ -1,4 +1,3 @@
-from winreg import DeleteValue
 
 my_dict = {'Anton': 1987, 'Semen': 1991, 'Artem': 2000}
 print('my_dict', my_dict)
